@@ -1,0 +1,1 @@
+../command/getFreeMonitoringStatus/# ../command/getFreeMonitoringStatus/

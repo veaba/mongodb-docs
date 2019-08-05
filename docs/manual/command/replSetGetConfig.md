@@ -1,0 +1,1 @@
+../command/replSetGetConfig/# ../command/replSetGetConfig/

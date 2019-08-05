@@ -1,0 +1,1 @@
+../command/logRotate/# ../command/logRotate/

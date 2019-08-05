@@ -1,0 +1,1 @@
+../method/db.collection.deleteMany/# ../method/db.collection.deleteMany/

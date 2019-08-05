@@ -1,0 +1,1 @@
+../command/logApplicationMessage/# ../command/logApplicationMessage/

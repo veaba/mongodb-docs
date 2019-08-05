@@ -1,0 +1,1 @@
+../method/db.collection.mapReduce/# ../method/db.collection.mapReduce/

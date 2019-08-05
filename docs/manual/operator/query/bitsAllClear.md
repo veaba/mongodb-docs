@@ -1,0 +1,1 @@
+../operator/query/bitsAllClear/# ../operator/query/bitsAllClear/

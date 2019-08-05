@@ -1,0 +1,1 @@
+../command/getParameter/# ../command/getParameter/

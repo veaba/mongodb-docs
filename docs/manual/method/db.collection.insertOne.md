@@ -1,0 +1,1 @@
+../method/db.collection.insertOne/# ../method/db.collection.insertOne/

@@ -1,0 +1,1 @@
+../method/db.collection.isCapped/# ../method/db.collection.isCapped/

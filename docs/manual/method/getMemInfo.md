@@ -1,0 +1,1 @@
+../method/getMemInfo/# ../method/getMemInfo/

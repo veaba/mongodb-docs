@@ -1,0 +1,1 @@
+../method/db.collection.renameCollection/# ../method/db.collection.renameCollection/
