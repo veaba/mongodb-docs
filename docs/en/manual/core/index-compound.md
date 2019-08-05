@@ -1,1 +1,1 @@
-# Hello world index-compound markdown
+../../core/index-compound/# ../../core/index-compound/

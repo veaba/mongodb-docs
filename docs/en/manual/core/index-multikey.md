@@ -1,1 +1,1 @@
-# Hello world index-multikey markdown
+../../core/index-multikey/# ../../core/index-multikey/

@@ -1,1 +1,1 @@
-# Hello world index-single markdown
+../../core/index-single/# ../../core/index-single/
