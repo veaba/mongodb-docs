@@ -1,0 +1,1 @@
+../operator/query/all/# ../operator/query/all/

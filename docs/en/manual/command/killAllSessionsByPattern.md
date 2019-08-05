@@ -1,0 +1,1 @@
+../command/killAllSessionsByPattern/# ../command/killAllSessionsByPattern/

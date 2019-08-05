@@ -1,0 +1,1 @@
+../method/db.collection.getIndexes/# ../method/db.collection.getIndexes/

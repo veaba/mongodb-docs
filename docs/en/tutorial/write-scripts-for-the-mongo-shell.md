@@ -1,0 +1,1 @@
+../../tutorial/write-scripts-for-the-mongo-shell/# ../../tutorial/write-scripts-for-the-mongo-shell/

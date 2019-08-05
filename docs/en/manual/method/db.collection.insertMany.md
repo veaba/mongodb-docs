@@ -1,0 +1,1 @@
+../method/db.collection.insertMany/# ../method/db.collection.insertMany/

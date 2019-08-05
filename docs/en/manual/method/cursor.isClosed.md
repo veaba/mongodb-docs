@@ -1,0 +1,1 @@
+../method/cursor.isClosed/# ../method/cursor.isClosed/

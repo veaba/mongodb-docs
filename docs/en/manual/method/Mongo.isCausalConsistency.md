@@ -1,0 +1,1 @@
+../method/Mongo.isCausalConsistency/# ../method/Mongo.isCausalConsistency/

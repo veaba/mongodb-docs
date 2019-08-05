@@ -33,7 +33,8 @@
       :class="{ open }"
       @click="$emit('toggle')"
     >
-      <span>{{ item.title }}</span>
+      <router-link v-if="item.link" :to="item.link">{{ item.title }}</router-link>
+      <span v-else>{{ item.title }}</span>
       <span
         class="arrow"
         v-if="collapsable"

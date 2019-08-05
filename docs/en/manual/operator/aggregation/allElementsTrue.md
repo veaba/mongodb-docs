@@ -1,0 +1,1 @@
+../operator/aggregation/allElementsTrue/# ../operator/aggregation/allElementsTrue/

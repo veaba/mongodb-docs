@@ -1,0 +1,1 @@
+../command/getLog/# ../command/getLog/

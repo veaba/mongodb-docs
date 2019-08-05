@@ -1,0 +1,1 @@
+../../tutorial/configure-replica-set-secondary-sync-target/# ../../tutorial/configure-replica-set-secondary-sync-target/

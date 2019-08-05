@@ -1,0 +1,1 @@
+../operator/query-bitwise/# ../operator/query-bitwise/

@@ -1,0 +1,1 @@
+../method/db.collection.dropIndex/# ../method/db.collection.dropIndex/

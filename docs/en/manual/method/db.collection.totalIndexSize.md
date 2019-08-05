@@ -1,0 +1,1 @@
+../method/db.collection.totalIndexSize/# ../method/db.collection.totalIndexSize/

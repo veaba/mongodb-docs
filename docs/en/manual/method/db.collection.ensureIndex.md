@@ -1,0 +1,1 @@
+../method/db.collection.ensureIndex/# ../method/db.collection.ensureIndex/
