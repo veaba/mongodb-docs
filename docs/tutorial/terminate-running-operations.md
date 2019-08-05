@@ -1,1 +1,0 @@
-../../tutorial/terminate-running-operations/# ../../tutorial/terminate-running-operations/

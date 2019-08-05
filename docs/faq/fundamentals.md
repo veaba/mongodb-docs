@@ -1,1 +1,0 @@
-../../faq/fundamentals/# ../../faq/fundamentals/

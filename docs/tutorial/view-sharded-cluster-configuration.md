@@ -1,1 +1,0 @@
-../../tutorial/view-sharded-cluster-configuration/# ../../tutorial/view-sharded-cluster-configuration/

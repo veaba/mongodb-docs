@@ -1,1 +1,1 @@
-../../core/aggregation-pipeline/# ../../core/aggregation-pipeline/
+# Aggregation Pipeline¶

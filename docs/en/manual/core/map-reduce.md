@@ -1,1 +1,1 @@
-../../core/map-reduce/# ../../core/map-reduce/
+# Map-Reduce

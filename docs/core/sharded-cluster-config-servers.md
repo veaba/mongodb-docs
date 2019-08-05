@@ -1,1 +1,0 @@
-../../core/sharded-cluster-config-servers/# ../../core/sharded-cluster-config-servers/

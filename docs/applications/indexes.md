@@ -1,1 +1,0 @@
-../../applications/indexes/# ../../applications/indexes/

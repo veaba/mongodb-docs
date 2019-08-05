@@ -1,1 +1,0 @@
-../../tutorial/install-mongodb-enterprise-on-windows/# ../../tutorial/install-mongodb-enterprise-on-windows/

@@ -1,1 +1,0 @@
-../../tutorial/manage-journaling/# ../../tutorial/manage-journaling/

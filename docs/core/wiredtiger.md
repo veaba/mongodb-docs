@@ -1,1 +1,0 @@
-../../core/wiredtiger/# ../../core/wiredtiger/

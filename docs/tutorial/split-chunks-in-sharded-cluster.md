@@ -1,1 +1,0 @@
-../../tutorial/split-chunks-in-sharded-cluster/# ../../tutorial/split-chunks-in-sharded-cluster/

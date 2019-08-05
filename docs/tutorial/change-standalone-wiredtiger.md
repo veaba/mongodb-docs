@@ -1,1 +1,0 @@
-../../tutorial/change-standalone-wiredtiger/# ../../tutorial/change-standalone-wiredtiger/

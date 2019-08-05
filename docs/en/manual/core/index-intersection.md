@@ -1,1 +1,1 @@
-../../core/index-intersection/# ../../core/index-intersection/
+# Index Intersection

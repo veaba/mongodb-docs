@@ -1,1 +1,0 @@
-../../tutorial/install-mongodb-enterprise-on-suse/# ../../tutorial/install-mongodb-enterprise-on-suse/

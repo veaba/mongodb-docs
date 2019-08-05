@@ -1,1 +1,0 @@
-../../tutorial/manage-mongodb-processes/# ../../tutorial/manage-mongodb-processes/

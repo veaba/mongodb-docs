@@ -1,1 +1,0 @@
-../../tutorial/configure-a-non-voting-replica-set-member/# ../../tutorial/configure-a-non-voting-replica-set-member/

@@ -1,1 +1,0 @@
-../../tutorial/avoid-text-index-name-limit/# ../../tutorial/avoid-text-index-name-limit/

@@ -1,1 +1,0 @@
-../../core/link-text-indexes/# ../../core/link-text-indexes/

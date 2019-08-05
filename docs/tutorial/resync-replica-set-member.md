@@ -1,1 +1,0 @@
-../../tutorial/resync-replica-set-member/# ../../tutorial/resync-replica-set-member/

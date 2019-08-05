@@ -1,1 +1,0 @@
-../../tutorial/build-a-geohaystack-index/# ../../tutorial/build-a-geohaystack-index/

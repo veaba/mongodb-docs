@@ -1,1 +1,0 @@
-../../tutorial/model-data-for-atomic-operations/# ../../tutorial/model-data-for-atomic-operations/

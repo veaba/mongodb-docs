@@ -1,1 +1,1 @@
-../../tutorial/manage-indexes/# ../../tutorial/manage-indexes/
+# Manage Indexes

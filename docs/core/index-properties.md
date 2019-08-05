@@ -1,1 +1,0 @@
-../../core/index-properties/# ../../core/index-properties/

@@ -1,1 +1,0 @@
-../../core/replica-set-architecture-geographically-distributed/# ../../core/replica-set-architecture-geographically-distributed/

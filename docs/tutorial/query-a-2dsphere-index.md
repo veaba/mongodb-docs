@@ -1,1 +1,0 @@
-../../tutorial/query-a-2dsphere-index/# ../../tutorial/query-a-2dsphere-index/
