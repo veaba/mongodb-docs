@@ -1,1 +1,0 @@
-../../tutorial/text-search-in-aggregation/# ../../tutorial/text-search-in-aggregation/

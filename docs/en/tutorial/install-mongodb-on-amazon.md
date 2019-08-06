@@ -1,1 +1,0 @@
-../../tutorial/install-mongodb-on-amazon/# ../../tutorial/install-mongodb-on-amazon/

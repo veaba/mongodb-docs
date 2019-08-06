@@ -1,21 +1,11 @@
 <template>
-		<section
-						class="sidebar-group"
-						:class="[
-      {
-        collapsable,
-        'is-sub-group': depth !== 0
-      },
-      `depth-${depth}`
-    ]"
+		<section class="sidebar-group"
+						:class="[{collapsable,'is-sub-group': depth !== 0},`depth-${depth}`]"
 		>
 				<router-link
 								v-if="item.path"
 								class="sidebar-heading clickable"
-								:class="{
-        open,
-        'active': isActive($route, item.path)
-      }"
+								:class="{open,'active': isActive($route, item.path)}"
 								:to="item.path"
 								@click.native="$emit('toggle')"
 				>
@@ -31,9 +21,9 @@
 								v-else
 								class="sidebar-heading"
 								:class="{ open }"
-								@click="$emit('toggle')"
-				>
-						<router-link v-if="item.link" :to="item.link">{{ item.title }}</router-link>
+								@click="$emit('toggle')">
+						<!--TODO 判断是不是外链-->
+						<router-link v-if="item.link" :to="($localePath+item.link).replace('//','/')" >{{ item.title }}</router-link>
 						<span v-else>{{ item.title }}</span>
 						<span
 										class="arrow"
@@ -91,8 +81,8 @@
 								font-weight normal
 								padding-left 2rem
 								
-								&:not(.clickable)
-										opacity 0.5
+								/*&:not(.clickable)*/
+								/*		opacity 0.5*/
 						
 						& > .sidebar-group-items
 								padding-left 1rem

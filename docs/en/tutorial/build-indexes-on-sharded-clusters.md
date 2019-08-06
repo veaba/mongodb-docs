@@ -1,1 +1,0 @@
-../../tutorial/build-indexes-on-sharded-clusters/# ../../tutorial/build-indexes-on-sharded-clusters/

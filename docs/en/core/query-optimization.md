@@ -1,1 +1,1 @@
-../../core/query-optimization/# ../../core/query-optimization/
+# Query Optimization

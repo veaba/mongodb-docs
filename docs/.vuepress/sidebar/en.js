@@ -112,11 +112,12 @@ module.exports = {
 			collapsable: false,
 			children: releaseNotesLinks
 		},
-		{
-			title: 'Technical Support',
-			collapsable: false,
-			children: technicalSupportLinks
-		}
+		'support',
+		// {
+		// 	title: 'Technical Support',
+		// 	collapsable: false,
+		// 	children: technicalSupportLinks
+		// }
 	
 	]
 };

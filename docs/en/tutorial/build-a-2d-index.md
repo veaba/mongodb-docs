@@ -1,1 +1,0 @@
-../../tutorial/build-a-2d-index/# ../../tutorial/build-a-2d-index/
