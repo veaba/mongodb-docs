@@ -1,1 +1,0 @@
-../installation-ubuntu-community-troubleshooting/# ../installation-ubuntu-community-troubleshooting/

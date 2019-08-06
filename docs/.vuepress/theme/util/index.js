@@ -233,14 +233,25 @@ function resolveItem(item, pages, base, groupDepth = 1) {
 				title: item.title
 			});
 		}
-		return {
-			type: 'group',
-			path: item.path,
-			title: item.title,
-			link: item.link,//group标题自带链接
-			sidebarDepth: item.sidebarDepth,
-			children: children.map(child => resolveItem(child, pages, base, groupDepth + 1)),
-			collapsable: item.collapsable !== false
-		};
+		// console.info(item.type);
+		// if (item.type === 'txt') {
+		// 	return {
+		// 		type: 'group',
+		// 		path: item.path,
+		// 		title: item.title,
+		// 		link: item.link,
+		// 		collapsable: item.collapsable !== false,
+		// 	};
+		// } else {
+			return {
+				type: 'group',
+				path: item.path,
+				title: item.title,
+				link: item.link,//group标题自带链接
+				sidebarDepth: item.sidebarDepth,
+				children: children.map(child => resolveItem(child, pages, base, groupDepth + 1)),
+				collapsable: item.collapsable !== false
+			};
+		// }
 	}
 }

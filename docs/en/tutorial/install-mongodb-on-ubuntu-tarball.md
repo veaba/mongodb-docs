@@ -1,1 +1,0 @@
-../../tutorial/install-mongodb-on-ubuntu-tarball/# ../../tutorial/install-mongodb-on-ubuntu-tarball/
