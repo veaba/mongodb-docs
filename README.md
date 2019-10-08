@@ -18,7 +18,8 @@
 
 ### 原因：
 
-!(txt write)[images/txt.png]
+![txt write](images/txt.png)
+
 - txt书写。原官方的用txt文件上书写
 - 脚本转换。加上python、ruby脚本抓换
 - 强迫症。这以上，让博主蛋疼，决定基于VuePress重构MongoDB官网原站，并翻译zh-CN。
